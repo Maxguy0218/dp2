@@ -1,0 +1,527 @@
+Date,Day of the week,Menu Item,Quantity Sold,Sales Amount (INR),Holiday/Event,Weather Condition
+01-01-2020,Wednesday,Butter Chicken,25,1250,New Year's Day,Clear
+01-01-2020,Wednesday,Chicken Biryani,30,1500,New Year's Day,Clear
+02-01-2020,Thursday,Masala Dosa,40,800,NULL,Clear
+02-01-2020,Thursday,Thali,15,1200,NULL,Clear
+03-01-2020,Friday,Chole Bhature,35,700,NULL,Foggy
+03-01-2020,Friday,Tandoori Roti,50,500,NULL,Foggy
+04-01-2020,Saturday,Gulab Jamun,60,600,Weekend,Clear
+04-01-2020,Saturday,Paneer Tikka,20,1000,Weekend,Clear
+05-01-2020,Sunday,Aloo Paratha,25,500,Weekend,Clear
+05-01-2020,Sunday,Chicken Curry,22,1100,Weekend,Clear
+06-01-2020,Monday,Jalebi,40,800,NULL,Clear
+06-01-2020,Monday,Rajma Chawal,18,900,NULL,Clear
+07-01-2020,Tuesday,Palak Paneer,28,1400,NULL,Rainy
+07-01-2020,Tuesday,Chicken Biryani,32,1600,NULL,Rainy
+08-01-2020,Wednesday,Fish Curry,15,750,NULL,Clear
+08-01-2020,Wednesday,Rogan Josh,25,1250,NULL,Clear
+09-01-2020,Thursday,Chicken Korma,28,1400,NULL,Clear
+09-01-2020,Thursday,Samosa,45,450,NULL,Clear
+10-01-2020,Friday,Dal Makhani,35,700,NULL,Foggy
+10-01-2020,Friday,Chana Masala,20,1000,NULL,Foggy
+11-01-2020,Saturday,Rasgulla,50,500,Weekend,Clear
+11-01-2020,Saturday,Bhindi Masala,30,600,Weekend,Clear
+12-01-2020,Sunday,Malai Kofta,15,750,Weekend,Clear
+12-01-2020,Sunday,Pav Bhaji,40,800,Weekend,Clear
+13-01-2020,Monday,Kheer,25,1250,NULL,Clear
+13-01-2020,Monday,Mutton Biryani,18,1800,NULL,Clear
+14-01-2020,Tuesday,Egg Curry,22,1100,Pongal,Rainy
+14-01-2020,Tuesday,Aloo Gobi,28,1400,Pongal,Rainy
+15-01-2020,Wednesday,Gajar Halwa,35,700,Makar Sankranti,Clear
+15-01-2020,Wednesday,Kheer,25,1250,Makar Sankranti,Clear
+16-01-2020,Thursday,Butter Chicken,30,1500,NULL,Clear
+17-01-2020,Friday,Chicken Tikka,25,1250,NULL,Foggy
+17-01-2020,Friday,Naan,40,800,NULL,Clear
+18-01-2020,Saturday,Mango Lassi,35,525,Weekend,Clear
+18-01-2020,Saturday,Rajma Chawal,20,400,Weekend,Clear
+19-01-2020,Sunday,Gulab Jamun,50,500,Weekend,Rainy
+19-01-2020,Sunday,Chicken Curry,22,1100,Weekend,Rainy
+20-01-2020,Monday,Masala Chai,15,150,NULL,Clear
+20-01-2020,Monday,Veg Biryani,18,900,NULL,Clear
+21-01-2020,Tuesday,Palak Paneer,28,1120,NULL,Foggy
+21-01-2020,Tuesday,Rasmalai,30,300,NULL,Foggy
+22-01-2020,Wednesday,Tandoori Roti,25,500,NULL,Clear
+22-01-2020,Wednesday,Chicken Biryani,15,1500,NULL,Clear
+23-01-2020,Thursday,Jalebi,40,400,NULL,Rainy
+23-01-2020,Thursday,Paneer Tikka,28,1400,NULL,Rainy
+24-01-2020,Friday,Dal Makhani,35,1050,NULL,Clear
+25-01-2020,Saturday,Chicken Korma,28,1400,Weekend,Foggy
+25-01-2020,Saturday,Aloo Paratha,20,400,Weekend,Foggy
+26-01-2020,Sunday,Rasgulla,45,450,Republic Day,Clear
+26-01-2020,Sunday,Bisi Bele Bath,15,600,Republic Day,Clear
+27-01-2020,Monday,Fish Curry,25,1250,NULL,Rainy
+27-01-2020,Monday,Pani Puri,30,300,NULL,Rainy
+28-01-2020,Tuesday,Chole Bhature,18,900,NULL,Clear
+28-01-2020,Tuesday,Gajar Halwa,32,320,NULL,Clear
+29-01-2020,Wednesday,Masala Dosa,40,800,NULL,Foggy
+29-01-2020,Wednesday,Chicken Biryani,22,2200,NULL,Foggy
+30-01-2020,Thursday,Shahi Tukda,20,200,NULL,Clear
+30-01-2020,Thursday,Vegetable Pulao,28,1120,NULL,Clear
+31-01-2020,Friday,Chicken Kebab,15,750,NULL,Rainy
+31-01-2020,Friday,Malai Kulfi,25,250,NULL,Rainy
+01-02-2020,Saturday,Gulab Jamun,40,400,Weekend,Clear
+01-02-2020,Saturday,Paneer Tikka,30,1200,Weekend,Clear
+02-02-2020,Sunday,Jalebi,35,350,Weekend,Foggy
+02-02-2020,Sunday,Mutton Biryani,20,2000,Weekend,Foggy
+03-02-2020,Monday,Palak Paneer,25,1000,NULL,Rainy
+03-02-2020,Monday,Samosa,15,150,NULL,Rainy
+04-02-2020,Tuesday,Rasmalai,22,220,NULL,Clear
+04-02-2020,Tuesday,Chicken Curry,28,1400,NULL,Clear
+05-02-2020,Wednesday,Rabri,30,300,NULL,Foggy
+05-02-2020,Wednesday,Aloo Gobi,18,900,NULL,Foggy
+06-02-2020,Thursday,Chicken Tikka,22,1100,NULL,Clear
+06-02-2020,Thursday,Kheer,25,250,NULL,Clear
+07-02-2020,Friday,Ice Cream,40,400,NULL,Rainy
+07-02-2020,Friday,Butter Chicken,15,750,NULL,Rainy
+08-02-2020,Saturday,Gajar Halwa,35,350,Weekend,Clear
+08-02-2020,Saturday,Rajma Chawal,25,1250,Weekend,Clear
+09-02-2020,Sunday,Fish Curry,18,1800,Weekend,Foggy
+09-02-2020,Sunday,Malpua,30,300,Weekend,Foggy
+10-02-2020,Monday,Chole Bhature,22,1100,NULL,Rainy
+10-02-2020,Monday,Rasgulla,28,280,NULL,Rainy
+11-02-2020,Tuesday,Shahi Tukda,15,150,NULL,Clear
+11-02-2020,Tuesday,Veg Biryani,20,1000,NULL,Clear
+12-02-2020,Wednesday,Chicken Korma,23,1150,NULL,Foggy
+12-02-2020,Wednesday,Falooda,25,250,NULL,Foggy
+13-02-2020,Thursday,Gulab Jamun,40,400,NULL,Clear
+13-02-2020,Thursday,Aloo Paratha,30,1500,NULL,Clear
+14-02-2020,Friday,Gulab Jamun,40,400,Valentine's Day,Rainy
+14-02-2020,Friday,Chicken Biryani,15,750,Valentine's Day,Rainy
+15-02-2020,Saturday,Dal Makhani,20,1000,Weekend,Clear
+15-02-2020,Saturday,Kheer,25,250,Weekend,Clear
+16-02-2020,Sunday,Jalebi,35,350,Weekend,Foggy
+16-02-2020,Sunday,Butter Chicken,28,2800,Weekend,Foggy
+17-02-2020,Monday,Paneer Tikka,18,900,NULL,Rainy
+17-02-2020,Monday,Rasmalai,22,220,NULL,Rainy
+18-02-2020,Tuesday,Chicken Tikka,15,750,NULL,Clear
+18-02-2020,Tuesday,Rabri,25,250,NULL,Clear
+19-02-2020,Wednesday,Pista Kulfi,30,300,NULL,Foggy
+19-02-2020,Wednesday,Rogan Josh,20,1000,NULL,Foggy
+20-02-2020,Thursday,Lassi,28,280,NULL,Clear
+20-02-2020,Thursday,Bhindi Masala,22,1100,NULL,Clear
+21-02-2020,Friday,Mutton Curry,15,750,NULL,Rainy
+21-02-2020,Friday,Cham Cham,30,300,NULL,Rainy
+22-02-2020,Saturday,Gulab Jamun,25,250,Weekend,Clear
+22-02-2020,Saturday,Chicken Biryani,20,2000,Weekend,Clear
+23-02-2020,Sunday,Fish Curry,28,2800,Weekend,Foggy
+23-02-2020,Sunday,Rasgulla,35,350,Weekend,Foggy
+24-02-2020,Monday,Malai Kulfi,22,220,NULL,Rainy
+24-02-2020,Monday,Aloo Gobi,18,900,NULL,Rainy
+25-02-2020,Tuesday,Shahi Tukda,25,250,NULL,Clear
+25-02-2020,Tuesday,Tandoori Roti,15,750,NULL,Clear
+26-02-2020,Wednesday,Chicken Korma,20,1000,NULL,Foggy
+26-02-2020,Wednesday,Kesar Pista Kulfi,30,300,NULL,Foggy
+27-02-2020,Thursday,Mango Kulfi,28,280,NULL,Clear
+27-02-2020,Thursday,Palak Paneer,22,1100,NULL,Clear
+28-02-2020,Friday,Chole Bhature,15,750,NULL,Rainy
+28-02-2020,Friday,Kaju Katli,30,300,NULL,Rainy
+01-03-2020,Sunday,Jalebi,30,300,Weekend,Clear
+01-03-2020,Sunday,Mutton Rogan Josh,25,2500,Weekend,Clear
+02-03-2020,Monday,Chicken Tikka,20,1000,NULL,Foggy
+02-03-2020,Monday,Rasmalai,25,250,NULL,Foggy
+03-03-2020,Tuesday,Gajar Halwa,22,220,NULL,Clear
+03-03-2020,Tuesday,Vegetable Biryani,18,900,NULL,Clear
+04-03-2020,Wednesday,Paneer Butter Masala,15,750,NULL,Rainy
+04-03-2020,Wednesday,Badam Milk,20,200,NULL,Rainy
+05-03-2020,Thursday,Dal Makhani,22,1100,NULL,Clear
+05-03-2020,Thursday,Kulfi Falooda,28,280,NULL,Clear
+06-03-2020,Friday,Moong Dal Halwa,30,300,NULL,Foggy
+06-03-2020,Friday,Aloo Paratha,15,750,NULL,Foggy
+07-03-2020,Saturday,Butter Chicken,15,750,Weekend,Clear
+07-03-2020,Saturday,Cham Cham,25,250,Weekend,Clear
+08-03-2020,Sunday,Gulab Jamun,30,300,Weekend,Clear
+08-03-2020,Sunday,Chicken Biryani,20,1000,Weekend,Clear
+09-03-2020,Monday,Malai Peda,25,250,NULL,Foggy
+09-03-2020,Monday,Palak Paneer,15,750,NULL,Foggy
+10-03-2020,Tuesday,Rasgulla,22,220,Holi,Clear
+10-03-2020,Tuesday,Aloo Paratha,15,750,Holi,Clear
+11-03-2020,Wednesday,Masala Chai,20,200,NULL,Rainy
+11-03-2020,Wednesday,Rogan Josh,15,750,NULL,Rainy
+12-03-2020,Thursday,Kaju Katli,28,280,NULL,Clear
+12-03-2020,Thursday,Aloo Gobi,22,1100,NULL,Clear
+13-03-2020,Friday,Rabri,30,300,NULL,Foggy
+13-03-2020,Friday,Tandoori Roti,15,750,NULL,Foggy
+14-03-2020,Saturday,Fish Curry,15,750,Weekend,Clear
+14-03-2020,Saturday,Kheer,25,250,Weekend,Clear
+15-03-2020,Sunday,Gulab Jamun,30,300,Weekend,Clear
+15-03-2020,Sunday,Chicken Biryani,20,1000,Weekend,Clear
+16-03-2020,Monday,Malai Peda,25,250,NULL,Foggy
+16-03-2020,Monday,Palak Paneer,15,750,NULL,Foggy
+17-03-2020,Tuesday,Chicken Korma,18,900,NULL,Clear
+17-03-2020,Tuesday,Rasgulla,22,220,NULL,Clear
+18-03-2020,Wednesday,Masala Chai,20,200,NULL,Rainy
+18-03-2020,Wednesday,Rogan Josh,15,750,NULL,Rainy
+19-03-2020,Thursday,Kaju Katli,28,280,NULL,Clear
+19-03-2020,Thursday,Aloo Gobi,22,1100,NULL,Clear
+20-03-2020,Friday,Rabri,30,300,NULL,Foggy
+20-03-2020,Friday,Tandoori Roti,15,750,NULL,Foggy
+21-03-2020,Saturday,Fish Curry,15,750,Weekend,Clear
+21-03-2020,Saturday,Kheer,25,250,Weekend,Clear
+22-03-2020,Sunday,Jalebi,30,300,Weekend,Clear
+22-03-2020,Sunday,Paneer Butter Masala,20,1000,Weekend,Clear
+23-03-2020,Monday,Chicken Tikka,15,750,NULL,Rainy
+23-03-2020,Monday,Gajar Halwa,25,250,NULL,Rainy
+24-03-2020,Tuesday,Samosa,22,220,NULL,Clear
+24-03-2020,Tuesday,Baingan Bharta,18,900,NULL,Clear
+25-03-2020,Wednesday,Chole Bhature,15,750,Gudi Padwa,Foggy
+25-03-2020,Wednesday,Pista Kulfi,20,200,Gudi Padwa,Foggy
+26-03-2020,Thursday,Mutton Curry,22,1100,NULL,Clear
+26-03-2020,Thursday,Aam Ras,28,280,NULL,Clear
+27-03-2020,Friday,Dal Makhani,15,750,NULL,Clear
+27-03-2020,Friday,Rasmalai,30,300,NULL,Clear
+28-03-2020,Saturday,Mango Lassi,25,250,Weekend,Rainy
+28-03-2020,Saturday,Butter Chicken,15,750,Weekend,Rainy
+29-03-2020,Sunday,Rasgulla,30,300,Weekend,Clear
+29-03-2020,Sunday,Rogan Josh,20,1000,Weekend,Clear
+30-03-2020,Monday,Kheer,25,250,NULL,Clear
+30-03-2020,Monday,Palak Paneer,15,750,NULL,Clear
+31-03-2020,Tuesday,Gulab Jamun,22,220,NULL,Rainy
+31-03-2020,Tuesday,Chicken Biryani,18,900,NULL,Rainy
+01-04-2020,Wednesday,Jalebi,25,250,April Fools' Day,Clear
+01-04-2020,Wednesday,Malai Kulfi,20,200,NULL,Clear
+02-04-2020,Thursday,Fish Curry,22,1100,Ram Navami,Foggy
+02-04-2020,Thursday,Moong Dal Halwa,28,280,Ram Navami,Foggy
+03-04-2020,Friday,Shahi Tukda,30,300,NULL,Clear
+03-04-2020,Friday,Tandoori Roti,15,750,NULL,Clear
+04-04-2020,Saturday,Chicken Korma,15,750,Weekend,Rainy
+04-04-2020,Saturday,Lassi,25,250,Weekend,Rainy
+05-04-2020,Sunday,Mango Lassi,18,180,Weekend,Clear
+05-04-2020,Sunday,Butter Chicken,22,1100,Weekend,Clear
+06-04-2020,Monday,Jalebi,25,250,NULL,Clear
+06-04-2020,Monday,Paneer Tikka,20,1000,NULL,Clear
+07-04-2020,Tuesday,Chicken Tikka Masala,16,800,NULL,Rainy
+07-04-2020,Tuesday,Samosa,30,300,NULL,Rainy
+08-04-2020,Wednesday,Masala Chai,22,220,NULL,Clear
+08-04-2020,Wednesday,Rajma Chawal,18,900,NULL,Clear
+09-04-2020,Thursday,Dal Makhani,25,1250,NULL,Foggy
+09-04-2020,Thursday,Rasmalai,20,200,NULL,Foggy
+10-04-2020,Friday,Gajar Halwa,28,280,Good Friday,Clear
+10-04-2020,Friday,Naan,15,750,Good Friday,Clear
+11-04-2020,Saturday,Chicken Saagwala,15,750,Weekend,Rainy
+11-04-2020,Saturday,Thandai,25,250,Weekend,Rainy
+12-04-2020,Sunday,Dum Aloo,22,1100,Easter Sunday,Clear
+12-04-2020,Sunday,Paan Ice Cream,18,180,Easter Sunday,Clear
+13-04-2020,Monday,Gulab Jamun,25,250,NULL,Clear
+13-04-2020,Monday,Aloo Gobi,18,900,NULL,Clear
+14-04-2020,Tuesday,Masala Dosa,30,300,Ambedkar Jayanti,Clear
+14-04-2020,Tuesday,Veg Biryani,20,1000,Ambedkar Jayanti,Clear
+15-04-2020,Wednesday,Chole Bhature,22,1100,NULL,Rainy
+15-04-2020,Wednesday,Badam Milk,22,220,NULL,Rainy
+16-04-2020,Thursday,Fish Curry,25,1250,NULL,Clear
+16-04-2020,Thursday,Pani Puri,20,200,NULL,Clear
+17-04-2020,Friday,Kheer,25,250,Hanuman Jayanti,Clear
+17-04-2020,Friday,Rabri,28,280,Hanuman Jayanti,Clear
+18-04-2020,Saturday,Kesar Pista Kulfi,25,250,Weekend,Foggy
+18-04-2020,Saturday,Butter Naan,15,750,Weekend,Foggy
+19-04-2020,Sunday,Palak Paneer,22,1100,Weekend,Clear
+19-04-2020,Sunday,Rasgulla,18,180,Weekend,Clear
+20-04-2020,Monday,Lassi,25,250,NULL,Rainy
+20-04-2020,Monday,Malai Kofta,20,1000,NULL,Rainy
+27-04-2020,Monday,Mango Lassi,18,180,NULL,Clear
+27-04-2020,Monday,Chicken Biryani,25,1250,NULL,Clear
+28-04-2020,Tuesday,Jalebi,20,200,NULL,Rainy
+28-04-2020,Tuesday,Aloo Paratha,30,1500,NULL,Rainy
+29-04-2020,Wednesday,Kheer,25,250,Buddha Purnima,Clear
+29-04-2020,Wednesday,Paneer Tikka,20,1000,Buddha Purnima,Clear
+30-04-2020,Thursday,Rajma Chawal,15,750,NULL,Foggy
+30-04-2020,Thursday,Shahi Tukda,28,280,NULL,Foggy
+01-05-2020,Friday,Rasmalai,22,220,May Day,Clear
+01-05-2020,Friday,Veg Hakka Noodles,15,750,May Day,Clear
+02-05-2020,Saturday,Paneer Tikka,20,1000,Weekend,Rainy
+02-05-2020,Saturday,Thandai,25,250,Weekend,Rainy
+03-05-2020,Sunday,Gajar Halwa,18,180,Weekend,Clear
+03-05-2020,Sunday,Veg Korma,22,1100,Weekend,Clear
+04-05-2020,Monday,Dum Aloo,25,1250,NULL,Foggy
+04-05-2020,Monday,Mango Kulfi,22,220,NULL,Foggy
+05-05-2020,Tuesday,Falooda,18,180,NULL,Clear
+05-05-2020,Tuesday,Palak Paneer,28,1400,NULL,Clear
+06-05-2020,Wednesday,Gulab Jamun,20,200,NULL,Rainy
+06-05-2020,Wednesday,Butter Chicken,30,1500,NULL,Rainy
+07-05-2020,Thursday,Chole Bhature,22,1100,NULL,Clear
+07-05-2020,Thursday,Malai Kulfi,25,250,NULL,Clear
+08-05-2020,Friday,Rabri,28,280,NULL,Foggy
+08-05-2020,Friday,Tandoori Roti,15,750,NULL,Foggy
+09-05-2020,Saturday,Chicken Korma,15,750,Weekend,Clear
+09-05-2020,Saturday,Rasgulla,22,220,Weekend,Clear
+10-05-2020,Sunday,Coconut Ladoo,25,250,Mother's Day,Rainy
+10-05-2020,Sunday,Dal Makhani,20,1000,Mother's Day,Rainy
+11-05-2020,Monday,Kulfi Falooda,18,180,NULL,Clear
+11-05-2020,Monday,Veg Biryani,22,1100,NULL,Clear
+12-05-2020,Tuesday,Chicken Tandoori,25,1250,NULL,Foggy
+12-05-2020,Tuesday,Pista Kulfi,22,220,NULL,Foggy
+13-05-2020,Wednesday,Mango Lassi,15,150,NULL,Clear
+13-05-2020,Wednesday,Paneer Tikka,30,1500,NULL,Clear
+14-05-2020,Thursday,Jalebi,20,200,NULL,Rainy
+14-05-2020,Thursday,Chicken Curry,25,1250,NULL,Rainy
+15-05-2020,Friday,Kheer,25,250,NULL,Clear
+15-05-2020,Friday,Aloo Paratha,18,900,NULL,Clear
+16-05-2020,Saturday,Rogan Josh,22,1100,Weekend,Foggy
+16-05-2020,Saturday,Shahi Tukda,28,280,Weekend,Foggy
+17-05-2020,Sunday,Rajma Chawal,22,220,Weekend,Clear
+17-05-2020,Sunday,Veg Kofta,15,750,Weekend,Clear
+18-05-2020,Monday,Gulab Jamun,25,250,NULL,Rainy
+18-05-2020,Monday,Chicken Biryani,20,1000,NULL,Rainy
+19-05-2020,Tuesday,Masala Dosa,22,1100,NULL,Clear
+19-05-2020,Tuesday,Rasmalai,18,180,NULL,Clear
+20-05-2020,Wednesday,Chicken Malai Tikka,25,1250,NULL,Foggy
+20-05-2020,Wednesday,Coconut Barfi,22,220,NULL,Foggy
+21-05-2020,Thursday,Mango Lassi,20,200,NULL,Clear
+21-05-2020,Thursday,Chicken Curry,28,1400,NULL,Clear
+22-05-2020,Friday,Jalebi,30,300,NULL,Rainy
+22-05-2020,Friday,Aloo Paratha,15,750,NULL,Rainy
+23-05-2020,Saturday,Kheer,22,220,Weekend,Clear
+23-05-2020,Saturday,Rogan Josh,18,900,Weekend,Clear
+24-05-2020,Sunday,Shahi Tukda,20,200,Weekend,Foggy
+24-05-2020,Sunday,Veg Kofta,25,1250,Weekend,Foggy
+25-05-2020,Monday,Gulab Jamun,18,180,NULL,Clear
+25-05-2020,Monday,Chicken Biryani,22,1100,NULL,Clear
+26-05-2020,Tuesday,Masala Dosa,25,1250,NULL,Rainy
+26-05-2020,Tuesday,Rasmalai,22,220,NULL,Rainy
+27-05-2020,Wednesday,Chicken Malai Tikka,20,1000,NULL,Clear
+27-05-2020,Wednesday,Coconut Barfi,28,280,NULL,Clear
+28-05-2020,Thursday,Mango Lassi,18,180,NULL,Clear
+28-05-2020,Thursday,Chicken Curry,30,1500,NULL,Clear
+29-05-2020,Friday,Jalebi,25,250,NULL,Rainy
+29-05-2020,Friday,Aloo Paratha,20,1000,NULL,Rainy
+30-05-2020,Saturday,Kheer,15,150,Weekend,Clear
+30-05-2020,Saturday,Rogan Josh,22,1100,Weekend,Clear
+31-05-2020,Sunday,Shahi Tukda,16,160,Weekend,Foggy
+31-05-2020,Sunday,Veg Kofta,28,1400,Weekend,Foggy
+01-06-2020,Monday,Gulab Jamun,20,200,NULL,Clear
+01-06-2020,Monday,Chicken Biryani,25,1250,NULL,Clear
+02-06-2020,Tuesday,Masala Dosa,18,900,NULL,Rainy
+02-06-2020,Tuesday,Rasmalai,28,280,NULL,Rainy
+03-06-2020,Wednesday,Chicken Malai Tikka,22,1100,NULL,Clear
+03-06-2020,Wednesday,Coconut Barfi,20,200,NULL,Clear
+04-06-2020,Thursday,Mango Lassi,18,180,NULL,Clear
+04-06-2020,Thursday,Chicken Curry,30,1500,NULL,Clear
+05-06-2020,Friday,Jalebi,25,250,NULL,Rainy
+05-06-2020,Friday,Aloo Paratha,20,1000,NULL,Rainy
+06-06-2020,Saturday,Kheer,15,150,Weekend,Clear
+06-06-2020,Saturday,Rogan Josh,22,1100,Weekend,Clear
+07-06-2020,Sunday,Shahi Tukda,16,160,Weekend,Foggy
+07-06-2020,Sunday,Veg Kofta,28,1400,Weekend,Foggy
+08-06-2020,Monday,Gulab Jamun,20,200,NULL,Clear
+08-06-2020,Monday,Chicken Biryani,25,1250,NULL,Clear
+09-06-2020,Tuesday,Masala Dosa,18,900,NULL,Rainy
+09-06-2020,Tuesday,Rasmalai,28,280,NULL,Rainy
+10-06-2020,Wednesday,Chicken Malai Tikka,22,1100,NULL,Clear
+10-06-2020,Wednesday,Coconut Barfi,20,200,NULL,Clear
+11-06-2020,Thursday,Mango Lassi,20,200,NULL,Clear
+11-06-2020,Thursday,Chicken Curry,28,1400,NULL,Clear
+12-06-2020,Friday,Jalebi,24,240,NULL,Rainy
+12-06-2020,Friday,Aloo Paratha,18,900,NULL,Rainy
+13-06-2020,Saturday,Kheer,14,140,Weekend,Clear
+13-06-2020,Saturday,Rogan Josh,30,1500,Weekend,Clear
+14-06-2020,Sunday,Shahi Tukda,18,180,Weekend,Foggy
+14-06-2020,Sunday,Veg Kofta,25,1250,Weekend,Foggy
+15-06-2020,Monday,Gulab Jamun,26,260,NULL,Clear
+15-06-2020,Monday,Chicken Biryani,22,1100,NULL,Clear
+16-06-2020,Tuesday,Masala Dosa,20,1000,NULL,Rainy
+16-06-2020,Tuesday,Rasmalai,22,220,NULL,Rainy
+17-06-2020,Wednesday,Chicken Malai Tikka,24,1200,NULL,Clear
+17-06-2020,Wednesday,Coconut Barfi,16,160,NULL,Clear
+18-06-2020,Thursday,Rasgulla,18,180,NULL,Clear
+18-06-2020,Thursday,Butter Chicken,32,1600,NULL,Clear
+19-06-2020,Friday,Chicken Korma,30,1500,Eid al-Fitr,Rainy
+19-06-2020,Friday,Tandoori Roti,22,1100,Eid al-Fitr,Rainy
+20-06-2020,Saturday,Chole Bhature,28,1400,Weekend,Clear
+20-06-2020,Saturday,Malai Kulfi,16,160,Weekend,Clear
+21-06-2020,Sunday,Palak Paneer,22,1100,Father's Day,Foggy
+21-06-2020,Sunday,Rajma Chawal,20,200,Father's Day,Foggy
+22-06-2020,Monday,Kulfi Falooda,18,180,NULL,Clear
+22-06-2020,Monday,Tandoori Roti,24,1200,NULL,Clear
+23-06-2020,Tuesday,Dum Aloo,26,1300,NULL,Rainy
+23-06-2020,Tuesday,Suji Halwa,14,140,NULL,Rainy
+24-06-2020,Wednesday,Chicken Korma,30,1500,NULL,Clear
+24-06-2020,Wednesday,Mysore Pak,16,160,NULL,Clear
+25-06-2020,Thursday,Gulab Jamun,20,200,NULL,Clear
+25-06-2020,Thursday,Butter Chicken,30,1500,NULL,Clear
+26-06-2020,Friday,Paneer Tikka,25,1250,NULL,Rainy
+26-06-2020,Friday,Shahi Tukda,15,150,NULL,Rainy
+27-06-2020,Saturday,Chole Bhature,35,1750,Weekend,Clear
+27-06-2020,Saturday,Jalebi,18,180,Weekend,Clear
+28-06-2020,Sunday,Mango Lassi,22,220,Weekend,Foggy
+28-06-2020,Sunday,Rajma Chawal,28,1400,Weekend,Foggy
+29-06-2020,Monday,Kheer,16,160,NULL,Clear
+29-06-2020,Monday,Tandoori Roti,22,1100,NULL,Clear
+30-06-2020,Tuesday,Gajar Halwa,14,140,NULL,Rainy
+30-06-2020,Tuesday,Chicken Biryani,28,1400,NULL,Rainy
+01-07-2020,Wednesday,Malai Kofta,32,1600,NULL,Clear
+01-07-2020,Wednesday,Rasgulla,20,200,NULL,Clear
+02-07-2020,Thursday,Gulab Jamun,25,250,NULL,Clear
+02-07-2020,Thursday,Butter Chicken,30,1500,NULL,Clear
+03-07-2020,Friday,Paneer Tikka,22,1100,NULL,Rainy
+03-07-2020,Friday,Shahi Tukda,18,180,NULL,Rainy
+04-07-2020,Saturday,Chole Bhature,40,2000,Weekend,Clear
+04-07-2020,Saturday,Jalebi,15,150,Weekend,Clear
+05-07-2020,Sunday,Mango Lassi,20,200,Weekend,Foggy
+05-07-2020,Sunday,Rajma Chawal,25,1250,Weekend,Foggy
+06-07-2020,Monday,Kheer,14,140,NULL,Clear
+06-07-2020,Monday,Tandoori Roti,28,1400,NULL,Clear
+07-07-2020,Tuesday,Gajar Halwa,16,160,Holi,Rainy
+07-07-2020,Tuesday,Chicken Biryani,30,1500,Holi,Rainy
+08-07-2020,Wednesday,Malai Kofta,35,1750,NULL,Clear
+08-07-2020,Wednesday,Rasgulla,22,220,NULL,Clear
+09-07-2020,Thursday,Gulab Jamun,20,200,NULL,Clear
+09-07-2020,Thursday,Butter Chicken,28,1400,NULL,Clear
+10-07-2020,Friday,Paneer Tikka,25,1250,NULL,Rainy
+10-07-2020,Friday,Shahi Tukda,15,150,NULL,Rainy
+11-07-2020,Saturday,Chole Bhature,38,1900,Weekend,Clear
+11-07-2020,Saturday,Jalebi,18,180,Weekend,Clear
+12-07-2020,Sunday,Mango Lassi,23,230,Weekend,Foggy
+12-07-2020,Sunday,Rajma Chawal,22,1100,Weekend,Foggy
+13-07-2020,Monday,Kheer,16,160,NULL,Clear
+13-07-2020,Monday,Tandoori Roti,30,1500,NULL,Clear
+14-07-2020,Tuesday,Gajar Halwa,14,140,NULL,Rainy
+14-07-2020,Tuesday,Chicken Biryani,32,1600,NULL,Rainy
+15-07-2020,Wednesday,Malai Kofta,33,1650,NULL,Clear
+15-07-2020,Wednesday,Rasgulla,24,240,NULL,Clear
+16-07-2020,Thursday,Gulab Jamun,20,200,NULL,Clear
+16-07-2020,Thursday,Butter Chicken,28,1400,NULL,Clear
+17-07-2020,Friday,Paneer Tikka,25,1250,NULL,Rainy
+17-07-2020,Friday,Shahi Tukda,15,150,NULL,Rainy
+18-07-2020,Saturday,Chole Bhature,38,1900,Weekend,Clear
+18-07-2020,Saturday,Jalebi,18,180,Weekend,Clear
+19-07-2020,Sunday,Mango Lassi,24,240,Weekend,Foggy
+19-07-2020,Sunday,Rajma Chawal,22,1100,Weekend,Foggy
+20-07-2020,Monday,Kheer,12,120,NULL,Clear
+20-07-2020,Monday,Tandoori Roti,30,1500,NULL,Clear
+21-07-2020,Tuesday,Gajar Halwa,20,200,NULL,Rainy
+21-07-2020,Tuesday,Chicken Biryani,32,1600,NULL,Rainy
+22-07-2020,Wednesday,Malai Kofta,33,1650,NULL,Clear
+22-07-2020,Wednesday,Rasgulla,25,250,NULL,Clear
+23-07-2020,Thursday,Gulab Jamun,20,200,NULL,Clear
+23-07-2020,Thursday,Butter Chicken,28,1400,NULL,Clear
+24-07-2020,Friday,Paneer Tikka,25,1250,NULL,Rainy
+24-07-2020,Friday,Shahi Tukda,15,150,NULL,Rainy
+25-07-2020,Saturday,Chole Bhature,38,1900,Weekend,Clear
+25-07-2020,Saturday,Jalebi,18,180,Weekend,Clear
+26-07-2020,Sunday,Mango Lassi,24,240,Weekend,Foggy
+26-07-2020,Sunday,Rajma Chawal,22,1100,Weekend,Foggy
+27-07-2020,Monday,Kheer,12,120,NULL,Clear
+27-07-2020,Monday,Tandoori Roti,30,1500,NULL,Clear
+28-07-2020,Tuesday,Gajar Halwa,20,200,NULL,Rainy
+28-07-2020,Tuesday,Chicken Biryani,32,1600,NULL,Rainy
+29-07-2020,Wednesday,Malai Kofta,33,1650,NULL,Clear
+29-07-2020,Wednesday,Rasgulla,25,250,NULL,Clear
+30-07-2020,Thursday,Gulab Jamun,20,200,NULL,Clear
+30-07-2020,Thursday,Butter Chicken,28,1400,NULL,Clear
+31-07-2020,Friday,Paneer Tikka,25,1250,NULL,Rainy
+31-07-2020,Friday,Shahi Tukda,15,150,NULL,Rainy
+01-08-2020,Saturday,Chicken Biryani,38,1900,Bakri Id,Clear
+01-08-2020,Saturday,Mutton Rogan Josh ,18,180,Bakri Id,Clear
+02-08-2020,Sunday,Mango Lassi,24,240,Weekend,Foggy
+02-08-2020,Sunday,Rajma Chawal,22,1100,Weekend,Foggy
+03-08-2020,Monday,Kheer,12,120,Raksha Bandhan,Clear
+03-08-2020,Monday,Rajma Chawal,22,1100,Raksha Bandhan,Clear
+04-08-2020,Tuesday,Gajar Halwa,20,200,NULL,Rainy
+04-08-2020,Tuesday,Chicken Biryani,32,1600,NULL,Rainy
+05-08-2020,Wednesday,Malai Kofta,33,1650,NULL,Clear
+05-08-2020,Wednesday,Rasgulla,25,250,NULL,Clear
+06-08-2020,Thursday,Gulab Jamun,20,200,NULL,Clear
+06-08-2020,Thursday,Butter Chicken,28,1400,NULL,Clear
+07-08-2020,Friday,Paneer Tikka,25,1250,NULL,Rainy
+07-08-2020,Friday,Shahi Tukda,15,150,NULL,Rainy
+08-08-2020,Saturday,Chole Bhature,38,1900,Weekend,Clear
+08-08-2020,Saturday,Jalebi,18,180,Weekend,Clear
+09-08-2020,Sunday,Mango Lassi,24,240,Weekend,Foggy
+09-08-2020,Sunday,Rajma Chawal,22,1100,Weekend,Foggy
+10-08-2020,Monday,Kheer,12,120,NULL,Clear
+10-08-2020,Monday,Tandoori Roti,30,1500,NULL,Clear
+11-08-2020,Tuesday,Gajar Halwa,20,200,NULL,Rainy
+11-08-2020,Tuesday,Chicken Biryani,32,1600,NULL,Rainy
+12-08-2020,Wednesday,Malai Kofta,33,1650,Janmashtami,Clear
+12-08-2020,Wednesday,Rasgulla,25,250,Janmashtami,Clear
+13-08-2020,Thursday,Gulab Jamun,20,200,NULL,Clear
+13-08-2020,Thursday,Butter Chicken,28,1400,NULL,Clear
+14-08-2020,Friday,Paneer Tikka,25,1250,NULL,Rainy
+14-08-2020,Friday,Shahi Tukda,15,150,NULL,Rainy
+15-08-2020,Saturday,Chole Bhature,38,1900,Independence Day,Clear
+15-08-2020,Saturday,Jalebi,18,180,Independence Day,Clear
+16-08-2020,Sunday,Mango Lassi,24,240,Weekend,Foggy
+16-08-2020,Sunday,Rajma Chawal,22,1100,Weekend,Foggy
+17-08-2020,Monday,Kheer,12,120,NULL,Clear
+17-08-2020,Monday,Tandoori Roti,30,1500,NULL,Clear
+18-08-2020,Tuesday,Gajar Halwa,20,200,NULL,Rainy
+18-08-2020,Tuesday,Chicken Biryani,32,1600,NULL,Rainy
+19-08-2020,Wednesday,Malai Kofta,33,1650,NULL,Clear
+19-08-2020,Wednesday,Rasgulla,25,250,NULL,Clear
+20-08-2020,Thursday,Gulab Jamun,20,200,NULL,Clear
+20-08-2020,Thursday,Butter Chicken,28,1400,NULL,Clear
+21-08-2020,Friday,Paneer Tikka,25,1250,NULL,Rainy
+21-08-2020,Friday,Shahi Tukda,15,150,NULL,Rainy
+22-08-2020,Saturday,Chole Bhature,38,1900,Ganesh Chaturthi,Clear
+22-08-2020,Saturday,Jalebi,18,180,Ganesh Chaturthi,Clear
+23-08-2020,Sunday,Mango Lassi,24,240,Weekend,Foggy
+23-08-2020,Sunday,Rajma Chawal,22,1100,Weekend,Foggy
+24-08-2020,Monday,Kheer,12,120,NULL,Clear
+24-08-2020,Monday,Tandoori Roti,30,1500,NULL,Clear
+25-08-2020,Tuesday,Gajar Halwa,20,200,NULL,Rainy
+25-08-2020,Tuesday,Chicken Biryani,32,1600,NULL,Rainy
+26-08-2020,Wednesday,Malai Kofta,33,1650,NULL,Clear
+26-08-2020,Wednesday,Rasgulla,25,250,NULL,Clear
+27-08-2020,Thursday,Gulab Jamun,20,200,NULL,Clear
+27-08-2020,Thursday,Butter Chicken,28,1400,NULL,Clear
+28-08-2020,Friday,Paneer Tikka,25,1250,NULL,Rainy
+28-08-2020,Friday,Shahi Tukda,15,150,NULL,Rainy
+29-08-2020,Saturday,Chole Bhature,38,1900,Weekend,Clear
+29-08-2020,Saturday,Jalebi,18,180,Weekend,Clear
+30-08-2020,Sunday,Mango Lassi,24,240,Weekend,Foggy
+30-08-2020,Sunday,Rajma Chawal,22,1100,Weekend,Foggy
+31-08-2020,Monday,Kheer,12,120,Onam,Clear
+31-08-2020,Monday,Tandoori Roti,30,1500,Onam,Clear
+01-09-2020,Tuesday,Gajar Halwa,20,200,NULL,Rainy
+01-09-2020,Tuesday,Chicken Biryani,32,1600,NULL,Rainy
+02-09-2020,Wednesday,Malai Kofta,33,1650,NULL,Clear
+02-09-2020,Wednesday,Rasgulla,25,250,NULL,Clear
+03-09-2020,Thursday,Butter Chicken,20,200,NULL,Clear
+03-09-2020,Thursday,Chicken Biryani,28,1400,NULL,Clear
+04-09-2020,Friday,Gulab Jamun,25,1250,NULL,Rainy
+04-09-2020,Friday,Paneer Tikka,15,150,NULL,Rainy
+05-09-2020,Saturday,Chole Bhature,18,180,Weekend,Clear
+05-09-2020,Saturday,Jalebi,38,1900,Weekend,Clear
+06-09-2020,Sunday,Mango Lassi,24,240,Weekend,Foggy
+06-09-2020,Sunday,Rajma Chawal,22,1100,Weekend,Foggy
+07-09-2020,Monday,Kheer,12,120,NULL,Clear
+07-09-2020,Monday,Tandoori Roti,30,1500,NULL,Clear
+08-09-2020,Tuesday,Gajar Halwa,32,1600,NULL,Rainy
+08-09-2020,Tuesday,Chicken Biryani,20,200,NULL,Rainy
+09-09-2020,Wednesday,Malai Kofta,25,250,NULL,Clear
+09-09-2020,Wednesday,Rasgulla,33,1650,NULL,Clear
+10-09-2020,Thursday,Chicken Korma,20,400,NULL,Clear
+10-09-2020,Thursday,Samosa,28,700,NULL,Clear
+11-09-2020,Friday,Fish Curry,15,300,NULL,Rainy
+11-09-2020,Friday,Aloo Tikki,25,625,NULL,Rainy
+12-09-2020,Saturday,Rogan Josh,18,360,Weekend,Clear
+12-09-2020,Saturday,Vegetable Biryani,38,950,Weekend,Clear
+13-09-2020,Sunday,Chicken Tikka,22,550,Weekend,Foggy
+13-09-2020,Sunday,Palak Paneer,24,480,Weekend,Foggy
+14-09-2020,Monday,Mutton Kofta,12,240,Hindi Diwas,Clear
+14-09-2020,Monday,Chaat,30,750,Hindi Diwas,Clear
+15-09-2020,Tuesday,Pav Bhaji,32,800,NULL,Rainy
+15-09-2020,Tuesday,Chicken Curry,20,400,NULL,Rainy
+16-09-2020,Wednesday,Masala Dosa,20,400,NULL,Clear
+16-09-2020,Wednesday,Butter Chicken,25,625,NULL,Clear
+17-09-2020,Thursday,Paneer Butter Masala,15,300,NULL,Rainy
+17-09-2020,Thursday,Chicken Biryani,30,750,NULL,Rainy
+18-09-2020,Friday,Rajma Chawal,28,700,NULL,Clear
+18-09-2020,Friday,Chicken Fried Rice,18,360,NULL,Clear
+19-09-2020,Saturday,Gulab Jamun,22,550,Weekend,Foggy
+19-09-2020,Saturday,Tandoori Roti,24,480,Weekend,Foggy
+20-09-2020,Sunday,Chicken Noodles,20,400,Weekend,Clear
+20-09-2020,Sunday,Chole Bhature,32,800,Weekend,Clear
+21-09-2020,Monday,Pani Puri,35,875,NULL,Rainy
+21-09-2020,Monday,Veg Pulao,15,300,NULL,Rainy
+22-09-2020,Tuesday,Chicken Korma,28,700,NULL,Clear
+22-09-2020,Tuesday,Aloo Paratha,20,400,NULL,Clear
+23-09-2020,Wednesday,Hyderabadi Biryani,30,750,NULL,Rainy
+23-09-2020,Wednesday,Vegetable Spring Roll,15,300,NULL,Rainy
+24-09-2020,Thursday,Rasgulla,33,1650,Navratri,Foggy
+24-09-2020,Thursday,Veg Pulao,15,300,Navratri,Foggy
+25-09-2020,Friday,Mutton Biryani,24,480,Weekend,Clear
+25-09-2020,Friday,Rasgulla,22,550,Weekend,Clear
+26-09-2020,Saturday,Chicken Malai Tikka,20,400,Weekend,Rainy
+26-09-2020,Saturday,Dahi Puri,32,800,Weekend,Rainy
+27-09-2020,Sunday,Dum Aloo,35,875,Weekend,Clear
+27-09-2020,Sunday,Fish Curry,15,300,Weekend,Clear
